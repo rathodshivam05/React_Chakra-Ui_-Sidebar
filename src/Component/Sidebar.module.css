@@ -1,0 +1,29 @@
+.home1:hover, .trending:hover{
+    background-color: deepskyblue;
+    color:white;
+}
+
+.trending{
+    border-radius: 12px;
+    padding:15px;
+}
+.home1{
+    display:flex;
+    border-radius: 12px;
+    align-items: center;
+    width: 100%;
+    padding:15px ;
+}
+.span{
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.draw{
+    display: flex;
+}
+.logo{
+    font-size: 22px;
+    font-weight: 700;
+}
