@@ -1,10 +1,3 @@
-## Output Sample :
-### `Desktop View`
-![image](https://user-images.githubusercontent.com/101569259/170861072-90170653-534a-427f-a071-a2879c221e0c.png)
-### `Mobile View`
-![image](https://user-images.githubusercontent.com/101569259/170861128-3293e510-aba0-495f-9a4b-bf4f8b1e98d7.png)
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
